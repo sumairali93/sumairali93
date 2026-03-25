@@ -1,6 +1,8 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sumair%20Ali%20Shahani&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20LLMs%20%7C%20Agentic%20AI%20%7C%20Computer%20Vision&descAlignY=55&descColor=a78bfa" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&height=60&lines=Hi+%F0%9F%91%8B+I'm+Sumair+Ali" alt="Name" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&height=45&lines=AI+%26+ML+Engineer+%F0%9F%A4%96;LLMs+%7C+Agentic+AI+%7C+RAG+Pipelines+%F0%9F%94%97;Computer+Vision+%7C+NLP+%F0%9F%91%81%EF%B8%8F;Open+to+Europe+Opportunities+%F0%9F%8C%8D" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,8 +27,7 @@ class SumairAli:
     name       = "Sumair Ali"
     location   = "Karachi, Pakistan 🇵🇰"
     role       = "AI & ML Engineer"
-    available  = True   
-
+    available  = True  
     focus = [
         "Agentic AI Systems",
         "LLM Fine-Tuning & RAG Pipelines",
@@ -149,9 +150,5 @@ class SumairAli:
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
-</div>
-
-<div align="center">
-  <i>"The best AI engineer is the one who never stops building."</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&height=30&lines=%22The+best+AI+engineer+never+stops+building.%22" alt="Quote" />
 </div>
