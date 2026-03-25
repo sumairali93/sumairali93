@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/sumair-ali-shahani-98996022a">
+  <a href="https://www.linkedin.com/in/sumairali93/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sumairali93">
@@ -144,7 +144,7 @@ class SumairAli:
 - ✅ Computer Vision Engineer
 - ✅ NLP Engineer
 
-📧 Connect on [LinkedIn](https://www.linkedin.com/in/sumairali93) | 💻 Explore [GitHub](https://github.com/sumairali93)
+📧 Connect on [LinkedIn](https://www.linkedin.com/in/sumairali93/) | 💻 Explore [GitHub](https://github.com/sumairali93)
 
 ---
 
