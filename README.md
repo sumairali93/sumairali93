@@ -144,7 +144,7 @@ class SumairAli:
 - ✅ Computer Vision Engineer
 - ✅ NLP Engineer
 
-📧 Connect on [LinkedIn](https://www.linkedin.com/in/sumair-ali-shahani-98996022a) | 💻 Explore [GitHub](https://github.com/sumairali93)
+📧 Connect on [LinkedIn](https://www.linkedin.com/in/sumairali93/) | 💻 Explore [GitHub](https://github.com/sumairali93)
 
 ---
 
